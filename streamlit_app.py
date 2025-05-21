@@ -5,7 +5,7 @@ st.write(
     "heyyiee, welcome to my space :O"
 )
 st.image("Snaptik.app_74466485541243159223.jpg")
-st.image("1746691690002.jpg", width:200)
+st.image("1746691690002.jpg", width:100)
 st.write("\n")
 st.subheader("pacarnya jay mantap yey")
 st.write(
